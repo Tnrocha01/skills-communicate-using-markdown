@@ -11,8 +11,7 @@
 #### Trabalhar com Código
 
 Exemplo 1:  
+
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
-Exwmplo 2:  
-var myVar = "Hello, world!";
