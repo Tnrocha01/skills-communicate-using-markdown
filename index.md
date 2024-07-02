@@ -17,3 +17,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### Trabalhar com Lista de Tarefas
+
+- [ ] Ative as páginas do GitHub
+- [ ] Descreva o meu portifólio
+- [ ] Apresente-me ao mundo
+
